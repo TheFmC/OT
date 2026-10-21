@@ -1,12 +1,12 @@
 {
   "packageName": "com.fmc.sport",
-  "versionName": "1.0.5",
-  "versionCode": 10005,
+  "versionName": "1.0.6",
+  "versionCode": 10006,
   "minSdk": 26,
-  "url": "https://github.com/TheFmC/OT/releases/download/tv-v1.0.5/FmC-Sport-TV-1.0.5.apk",
-  "size": 5414450,
-  "sha256": "c5ac06c3c8151c12ee21bb5745583c39f8651e1e836beafe90bf41630f01e7ca",
+  "url": "https://github.com/TheFmC/OT/releases/download/tv-v1.0.6/FmC-Sport-TV-1.0.6.apk",
+  "size": 5414490,
+  "sha256": "d0c14d28acd24e24f21dfa8c3f3bf425f8fe86e6c068f4a02c7eafa6d2b72961",
   "signingCertificateSha256": "3ba6aecc9dbabb7a4158919d60a26108daa5f0f6772c75f867d902858dd44076",
-  "publishedAt": "2026-10-21T14:30:44.222Z",
+  "publishedAt": "2026-10-21T14:39:57.573Z",
   "notes": "تحسينات واجهة التلفزيون والمشغل والرفرش وإدارة السيرفرات."
 }
